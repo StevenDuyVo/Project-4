@@ -1,5 +1,5 @@
 ## Column Classification: 
-*  For anyone wishing to know the columns in detail, we referred to what the author mentioned in the datacard and got this (do check the original out in case you're unsure about any):
+* For anyone wishing to know the columns in detail, we referred to what the author mentioned in the datacard and got this (do check the original out in case you're unsure about any):
   *  HighBP : Indicates if the person has been told by a health professional that they have High Blood Pressure.
   *  HighChol : Indicates if the person has been told by a health professional that they have High Blood Cholesterol.
   *  CholCheck : Cholesterol Check, if the person has their cholesterol levels checked within the last 5 years.
