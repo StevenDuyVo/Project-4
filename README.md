@@ -1,6 +1,8 @@
 # Introduction
 With this project we wanted to create an algorithm to predict the outcome of healthy patients (as opposed to patients with heart disease) based on certain factors such as high cholesterol or smoking habits. To do this an algorithm was made to help predict the possibility of heart disease based on potential telling factors, and the BRFSS had readily available data for us to use and test for this exact purpose. While the original dataset is on Kaggle that was already clean, we had decided to clean this dataset ourselves in order to create a better fit.
 
+# Link to Presentation
+https://docs.google.com/presentation/d/1OXDKEVJd5geLujpc856oedN7ZHAz6vrUeVhBLGG76Yk/edit?usp=sharing
 
 ### Column Classification: 
 * For anyone wishing to know the columns in detail, we referred to what the author mentioned in the datacard and got this (do check the original out in case you're unsure about any):
